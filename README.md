@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-DS Clients é uma API de CRUD de clients, desenvolvido no BootCamp da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DS Clients é uma API de CRUD de clients, desafio desenvolvido no BootCamp da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 # Tecnologias utilizadas
 ## Backend
